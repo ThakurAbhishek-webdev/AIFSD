@@ -87,7 +87,7 @@ cd backend
 npm install
 npm run dev
 ```
-Backend runs at: **http://localhost:5000**
+Backend runs at: **https://aifsd-backend-5xbc.onrender.com**
 
 ### Step 4 — Install & Run Frontend
 ```bash

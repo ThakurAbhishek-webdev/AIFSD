@@ -1,6 +1,6 @@
 # API Documentation — Employee Analytics System
 
-Base URL (local): `http://localhost:5000/api`
+Base URL (local): `https://aifsd-backend-5xbc.onrender.com`
 
 All protected routes require:
 ```
